@@ -17,3 +17,4 @@ C:\Users\Jake\Documents\College\SENG Semester 2\Advanced Programming\Labs\Lab 2\
 C:\Users\Jake\Documents\College\SENG Semester 2\Advanced Programming\Labs\Lab 2\Lab_two_starter\obj\Debug\Lab_two_starter.csproj.CoreCompileInputs.cache
 C:\Users\Jake\Documents\College\SENG Semester 2\Advanced Programming\Labs\Lab 2\Lab_two_starter\obj\Debug\Lab_two_starter.exe
 C:\Users\Jake\Documents\College\SENG Semester 2\Advanced Programming\Labs\Lab 2\Lab_two_starter\obj\Debug\Lab_two_starter.pdb
+C:\Users\Jake\Documents\College\SENG Semester 2\Advanced Programming\Labs\Lab 2\Lab_two_starter\obj\Debug\App.baml
